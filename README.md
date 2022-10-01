@@ -1,5 +1,5 @@
 # you-say
-Você gosta de arte ASCII? Esse código serve para você, onde criei minha versão de cowsay, mas com a caracteristica de você decidir quem você quer que diga algo. gostou?
+Do you like ASCII art? This code is for you, where I created my version of cowsay, but with the characteristic that you decide who you want to say something. liked?
 
 ## use
 
