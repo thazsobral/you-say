@@ -2,7 +2,6 @@
 Do you like ASCII art? This code is for you, where I created my version of cowsay, but with the characteristic that you decide who you want to say something. liked?
 
 ## use
-
 ```
 python you-say.py "<words>" <character>
 ```
@@ -52,7 +51,7 @@ python3 you-say.py "Lorem Ipsum is simply dummy text of the printing and typeset
             `''       `''
 ```
 
-### features:
+## features
 **characters**:
 - penguim
 - pikachu
