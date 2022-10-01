@@ -1,4 +1,5 @@
 # you-say
+Você gosta de arte ASCII? Esse código serve para você, onde criei minha versão de cowsay, mas com a caracteristica de você decidir quem você quer que diga algo. gostou?
 
 ## use
 
