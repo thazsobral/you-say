@@ -1,5 +1,4 @@
 import sys
-from xml.dom.minidom import CharacterData
 
 args = sys.argv[1:]
 user_text = str(args[0])
